@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+datos/cgmacros/CGMacros/
+*.nbi
+*.nbc
+.DS_Store
+Thumbs.db
+
+# Salidas intermedias del código original del Cap. 7
+resultados/cap7/original/_cgmacros_desde_compacto/
+resultados/cap7/original/S_t/
+resultados/cap7/original/S_t_consolidado.csv
+resultados/cap5/original/_series/

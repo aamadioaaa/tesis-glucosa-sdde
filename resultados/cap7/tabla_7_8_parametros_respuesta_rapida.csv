@@ -1,0 +1,7 @@
+,valor
+k_d,0.3
+k_v,0.02
+gamma_n,1.0
+S_h_max,0.75
+tau_ataque,10.0
+tau_retorno,60.0

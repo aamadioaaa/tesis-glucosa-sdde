@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Si usa este código o estos datos, cite la tesis y este repositorio."
+title: "Código y datos de la tesis: Modelización matemática de la dinámica de la glucosa en sujetos con Diabetes Mellitus Tipo II mediante ecuaciones diferenciales con retardo y modelos estocásticos"
+authors:
+  - family-names: Amadio
+    given-names: Ariel Alejandro
+    affiliation: "Universidad Tecnológica Nacional, Facultad Regional General Pacheco"
+version: 1.0.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/aamadioaaa/tesis-glucosa-sdde"
+keywords:
+  - glucosa
+  - monitoreo continuo de glucosa
+  - ecuaciones diferenciales estocásticas con retardo
+  - Langevin
+  - entropía de permutación
+  - diabetes tipo 2
+preferred-citation:
+  type: thesis
+  thesis-type: "Tesis de Doctorado en Ingeniería"
+  title: "Modelización matemática de la dinámica de la glucosa en sujetos con Diabetes Mellitus Tipo II mediante ecuaciones diferenciales con retardo y modelos estocásticos"
+  authors:
+    - family-names: Amadio
+      given-names: Ariel Alejandro
+  institution:
+    name: "Universidad Tecnológica Nacional"
+  year: 2026

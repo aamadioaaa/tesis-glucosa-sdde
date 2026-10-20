@@ -1,0 +1,100 @@
+Dato,Tesis,Reproducido,Coincide
+Tabla 5.1: celdas que coinciden,260.0,260.0,✔
+Tabla 5.2: celdas que coinciden,260.0,260.0,✔
+Tabla 5.3: celdas que coinciden,280.0,280.0,✔
+Tabla 5.4: celdas que coinciden,280.0,280.0,✔
+DBT2 global CV%_E,23.1,23.1,✔
+DBT2 global CV%_S,19.0,19.0,✔
+DBT2 global L1,4.0,4.0,✔
+NDBT2 global CV%_E,18.2,18.2,✔
+NDBT2 global CV%_S,14.6,14.6,✔
+NDBT2 global L1,3.6,3.6,✔
+MAE NDBT2 reales (media),8.6,8.6,✔
+  DE,1.5,1.5,✔
+MAE NDBT2 aumentadas (media),9.2,9.2,✔
+  DE,1.6,1.6,✔
+MAE reales vs aumentadas: Mann–Whitney p,0.44,0.44,✔
+MAE/σ_E DBT2: DE,0.068,0.068,✔
+MAE/σ_E NDBT2: DE,0.051,0.051,✔
+MAE/σ_E DBT2: CV (%),14.6,14.6,✔
+MAE/σ_E NDBT2: CV (%),8.8,8.8,✔
+Mann–Whitney MAE: p (×10⁻⁴),7.2,7.2,✔
+L1 DBT2: mediana,4.2,4.2,✔
+L1 DBT2: mínimo,0.2,0.2,✔
+L1 DBT2: máximo,8.9,8.9,✔
+L1 NDBT2 (20 series): mediana,3.3,3.3,✔
+L1 NDBT2 (20 series): mínimo,1.7,1.7,✔
+L1 NDBT2 (20 series): máximo,7.5,7.5,✔
+L1 DBT2 vs NDBT2 reales: Mann–Whitney p,0.82,0.82,✔
+Decil inferior: G_E medio DBT2,78.0,78.0,✔
+Decil superior: G_E medio DBT2,216.0,216.0,✔
+Recorrido ε por deciles DBT2,26.4,26.4,✔
+Recorrido ε por deciles NDBT2,21.9,21.9,✔
+MAE decil superior |dG/dt| DBT2,20.2,20.2,✔
+MAE decil superior |dG/dt| NDBT2,14.0,14.0,✔
+DBT2: MAE diario mínimo,5.2,5.2,✔
+DBT2: MAE diario máximo,37.6,37.6,✔
+DBT2: Δ medio,15.4,15.4,✔
+DBT2: Δ mínimo,7.8,7.8,✔
+DBT2: Δ máximo,29.6,29.6,✔
+DBT2: cociente máx/mín medio,3.19,3.19,✔
+DBT2: DE intra-serie,4.56,4.56,✔
+DBT2: DE entre series,3.97,3.97,✔
+NDBT2: MAE diario mínimo,4.5,4.5,✔
+NDBT2: MAE diario máximo,18.8,18.8,✔
+NDBT2: Δ medio,7.6,7.6,✔
+NDBT2: cociente máx/mín medio,2.3,2.3,✔
+NDBT2: DE intra-serie,2.2,2.2,✔
+NDBT2: DE entre series,1.56,1.56,✔
+r_d DBT2: mediana,0.466,0.466,✔
+r_d DBT2: positivas,19.0,19.0,✔
+r_d DBT2: Wilcoxon p < 10⁻⁴,1.0,1.0,✔
+r_d NDBT2 reales: positivas,5.0,5.0,✔
+r_d NDBT2 reales: Wilcoxon p,0.0625,0.0625,✔
+Perfil intradiario DBT2: mínimo,10.7,10.7,✔
+Perfil intradiario DBT2: máximo,16.0,16.0,✔
+Perfil intradiario DBT2: hora del máximo,12.75,12.75,✔
+MAE 03–08 h DBT2,13.7,13.7,✔
+MAE resto del día DBT2,13.4,13.4,✔
+Perfil intradiario NDBT2: mínimo,6.5,6.5,✔
+Perfil intradiario NDBT2: máximo,11.8,11.8,✔
+Perfil intradiario NDBT2: hora del máximo,17.75,17.75,✔
+MAE 03–08 h NDBT2,8.4,8.4,✔
+MAE resto del día NDBT2,9.2,9.2,✔
+Máximo secundario DBT2 01:15 (mg/dL),14.9,14.9,✔
+Máximo secundario DBT2 04:15 (mg/dL),14.8,14.8,✔
+"r(perfil de error, velocidad) con 30 min de desfase",0.22,0.22,✔
+β_n máximo DBT2,0.67,0.67,✔
+Mediana τ_d DBT2 (min),37.2,37.2,✔
+Clarke DBT2 A+B (%),99.3,99.3,✔
+Clarke NDBT2 A+B (%),97.2,97.2,✔
+DBT2 global ME,0.09,0.09,✔
+DBT2 global MAE,13.0,13.0,✔
+DBT2 global RMSE,18.0,18.0,✔
+DBT2 global r,0.892,0.892,✔
+DBT2 global b,0.797,0.797,✔
+DBT2 global P95,37.0,37.0,✔
+DBT2 global ±20 (%),80.0,80.0,✔
+NDBT2 global ME,0.02,0.02,✔
+NDBT2 global MAE,9.0,9.0,✔
+NDBT2 global RMSE,12.0,12.0,✔
+NDBT2 global r,0.799,0.799,✔
+NDBT2 global b,0.698,0.698,✔
+NDBT2 global P95,24.0,24.0,✔
+NDBT2 global ±20 (%),92.0,92.0,✔
+Mann–Whitney U,95.0,95.0,✔
+r_rb,0.9,0.9,✔
+MAE/σ_E DBT2,0.466,0.466,✔
+MAE/σ_E NDBT2 (20 series),0.574,0.574,✔
+Decil inferior ε DBT2,-8.8,-8.8,✔
+Decil superior ε DBT2,17.6,17.6,✔
+L1 media DBT2 (pp),4.0,4.0,✔
+L1 media NDBT2 (pp),3.6,3.6,✔
+r_d media DBT2,0.437,0.437,✔
+r_d media NDBT2 reales,0.718,0.718,✔
+Clarke DBT2 zona A (%),87.2,87.2,✔
+Clarke DBT2 zona B (%),12.0,12.0,✔
+Clarke DBT2 zona D (%),0.7,0.7,✔
+Clarke NDBT2 zona A (%),89.3,89.3,✔
+Clarke NDBT2 zona B (%),7.9,7.9,✔
+Clarke NDBT2 zona D (%),2.8,2.8,✔

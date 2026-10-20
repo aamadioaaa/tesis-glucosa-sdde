@@ -1,0 +1,39 @@
+Dato,Tesis,Reproducido,Coincide
+Sujeto 5: Ḡ medida (mg/dL),161.3,161.3,✔
+Sujeto 5: TIR medida (%),70.5,70.5,✔
+Sujeto 5: HbA1c eq. medida (%),7.25,7.25,✔
+Sujeto 5: GMI medida (%),7.17,7.17,✔
+Sujeto 5: ρ referencia vs señal medida,0.84,0.84,✔
+Sujeto 5: Ḡ referencia (mg/dL),161.3,161.3,✔
+Sujeto 5: TIR referencia (%),72.9,72.9,✔
+Sujeto 5: HbA1c eq. referencia (%),7.25,7.25,✔
+Sujeto 5: GMI referencia (%),7.17,7.17,✔
+Sujeto 5: Ḡ intervención (mg/dL),148.1,148.1,✔
+Sujeto 5: TIR intervención (%),80.6,80.6,✔
+Sujeto 5: TBR intervención (%),1.1,1.1,✔
+Sujeto 5: HbA1c eq. intervención (%),6.79,6.79,✔
+Sujeto 5: GMI intervención (%),6.85,6.85,✔
+Sujeto 5: eventos,28.0,28.0,✔
+Sujeto 5: eventos modificados,28.0,28.0,✔
+Sujeto 5: energía posprandial de referencia (u.a.),22.4,22.4,✔
+Sujeto 5: energía posprandial final (u.a.),15.6,15.6,✔
+Sujeto 5: energía conservada (%),70.0,70.0,✔
+Sujeto 5: ‖v‖ referencia,0.604,0.604,✔
+Sujeto 5: ‖v‖ intervención,0.607,0.607,✔
+Población: reducción media HbA1c eq.,0.38,0.38,✔
+"Población: sujetos ≤ 5,5 %",10.0,10.0,✔
+Población: sujetos admisibles,7.0,7.0,✔
+β referencia (Fig. 6.11),3.24,3.24,✔
+β intervención por eventos,3.18,3.18,✔
+β atenuación global,3.19,3.19,✔
+Tabla 6.4 Referencia (S original): ‖v‖,0.604,0.604,✔
+Tabla 6.4 S → ruido blanco: ‖v‖,0.452,0.452,✔
+Tabla 6.4 S = 0: ‖v‖,0.444,0.444,✔
+Tabla 6.4 S con fase aleatorizada: ‖v‖,0.595,0.595,✔
+Tabla 6.4 Referencia (S original): TIR,73.0,73.0,✔
+Tabla 6.4 S → ruido blanco: TIR,53.0,53.0,✔
+Tabla 6.4 S = 0: TIR,23.0,23.0,✔
+Tabla 6.4 S con fase aleatorizada: TIR,24.0,24.0,✔
+"r(‖v‖, HbA1c eq.) en 20 sujetos",0.19,0.19,✔
+Concordancia entre reglas de empates,1.0,1.0,✔
+"Sujetos con ‖v‖ > 0,50",19.0,19.0,✔

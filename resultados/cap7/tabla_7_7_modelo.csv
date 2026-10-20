@@ -1,0 +1,7 @@
+,Real,Simulado,DE
+Correlación temporal,,0.739,0.148
+RMSE (mg/dL),,24.8,9.0
+Entropía H,0.775,0.792,
+Complejidad C,0.171,0.161,
+Tiempo en rango (%),82.0,81.0,
+Exponente espectral β,2.53,2.39,

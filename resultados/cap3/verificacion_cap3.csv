@@ -1,0 +1,96 @@
+Dato,Tesis,Reproducido,Coincide
+βc NDBT2 (banda confiable),1.28,1.2835,✔
+βc DBT2 (banda confiable),2.6,2.6047,✔
+Submuestreo βc: Δ mediana,1.29,1.2946,✔
+Submuestreo βc: % significativas,100.0,100.0,✔
+DFA G(t) NDBT2,0.818,0.8177,✔
+DFA G(t) DBT2,0.895,0.895,✔
+DFA G(t) Mann–Whitney p,0.55,0.5476,✔
+DFA residuo NDBT2,0.294,0.2942,✔
+DFA residuo DBT2,0.374,0.3743,✔
+DFA residuo d de Cohen,2.7,2.7191,✔
+DFA submuestreo G(t) % signif.,2.3,2.2962,✔
+DFA submuestreo residuo % signif.,73.7,73.6842,✔
+β de S(t) NDBT2,0.12,0.1154,✔
+β de S(t) DBT2,1.28,1.2781,✔
+β de S(t) d de Cohen,6.1,6.0793,✔
+λ_max NDBT2 [1/h],0.274,0.2738,✔
+λ_max DBT2 [1/h],0.398,0.398,✔
+H NDBT2,0.905,0.9052,✔
+H DBT2,0.825,0.8254,✔
+C NDBT2,0.082,0.0821,✔
+C DBT2,0.14,0.1401,✔
+Stat_MS NDBT2-01,0.482,0.482,✔
+Stat_MS DBT2 (máximo del subconjunto),0.5506,0.5506,✔
+DBT2 completo clasificados 'DBT2',16.0,16.0,✔
+Ventanas compatibles con ingesta (DBT2-05),31.0,31.0,✔
+  de ellas fuertes,8.0,8.0,✔
+  de ellas moderadas,9.0,9.0,✔
+  de ellas posibles,14.0,14.0,✔
+  ΔG_max medio de las fuertes (mg/dL),155.3,155.25,✔
+  I_S medio de las fuertes,0.77,0.7661,✔
+  ΔG_max medio de las moderadas (mg/dL),135.6,135.5556,✔
+  I_S medio de las moderadas,0.68,0.6837,✔
+Alba: ΔG día 4 (mg/dL),148.0,148.0,✔
+Alba: I_S día 4,0.81,0.8129,✔
+Alba DBT2-05: días fuertes,4.0,4.0,✔
+Alba DBT2-05: ΔG día 3 (mg/dL),107.0,107.0,✔
+Alba DBT2-05: ΔG día 8 (mg/dL),132.0,132.0,✔
+Alba DBT2-05: ΔG día 9 (mg/dL),120.0,120.0,✔
+Alba DBT2-05: ΔG día 12 (mg/dL),-1.0,-1.0,✔
+Alba DBT2-05: días moderados,5.0,5.0,✔
+Alba DBT2-05: días posibles,2.0,2.0,✔
+Alba DBT2-05: I_S día 12,-0.2,-0.2048,✔
+Sujetos con hipoglucemia nocturna,9.0,9.0,✔
+Ventanas con ascenso tras mínimo < 70 mg/dL,23.0,23.0,✔
+  de ellas con mínimo < 54 mg/dL,3.0,3.0,✔
+  mínimo nocturno (mg/dL),40.0,40.0,✔
+DBT2-05: mínimo nocturno 22–08 h (mg/dL),83.0,83.0,✔
+βc DE NDBT2,0.16,0.164,✔
+βc DE DBT2,0.16,0.163,✔
+βc Mann–Whitney U,25.0,25.0,✔
+βc Mann–Whitney p,0.008,0.0079,✔
+βc t de Welch,12.8,12.7779,✔
+βc d de Cohen,8.1,8.0815,✔
+Δβc banda confiable,1.32,1.3212,✔
+βc banda completa NDBT2,2.06,2.0597,✔
+  DE,0.14,0.1364,✔
+βc banda completa DBT2,2.55,2.5459,✔
+  DE,0.17,0.1706,✔
+Δβc banda completa,0.49,0.4862,✔
+Submuestreo βc: Δ mínima,0.96,0.9604,✔
+Submuestreo βc: Δ máxima,1.73,1.7286,✔
+Submuestreo βc: p máximo,0.012,0.0119,✔
+DFA G(t) DE NDBT2,0.052,0.0516,✔
+DFA G(t) DE DBT2,0.121,0.1213,✔
+DFA residuo DE NDBT2,0.016,0.0161,✔
+DFA residuo DE DBT2,0.038,0.0384,✔
+DFA residuo Mann–Whitney p,0.008,0.0079,✔
+DFA submuestreo residuo: Δα mediana,0.074,0.0743,✔
+Δβ de S(t) banda confiable,1.16,1.1627,✔
+Δβ de S(t) banda completa,0.55,0.5524,✔
+β de S(t) Mann–Whitney U,25.0,25.0,✔
+β de S(t) t de Welch,9.6,9.6122,✔
+λ_max DE NDBT2,0.017,0.0166,✔
+λ_max DE DBT2,0.041,0.0406,✔
+T_L NDBT2 [h],3.66,3.6632,✔
+T_L DBT2 [h],2.53,2.5349,✔
+T_L DE NDBT2,0.22,0.2174,✔
+T_L DE DBT2,0.27,0.2749,✔
+λ_max Mann–Whitney p,0.008,0.0079,✔
+λ_max t de Welch,6.3,6.3357,✔
+λ_max d de Cohen,4.0,4.007,✔
+λ_max submuestreo % signif.,100.0,100.0,✔
+Stat_MS NDBT2-01,0.482,0.482,✔
+Stat_MS NDBT2-02,0.4674,0.4674,✔
+Stat_MS NDBT2-03,0.4845,0.4845,✔
+Stat_MS NDBT2-04,0.4768,0.4768,✔
+Stat_MS NDBT2-05,0.4821,0.4821,✔
+Stat_MS DBT2-18 (subconjunto),0.5098,0.5098,✔
+Stat_MS DBT2-02 (subconjunto),0.5354,0.5354,✔
+Stat_MS DBT2-14 (subconjunto),0.5206,0.5206,✔
+Stat_MS DBT2-17 (subconjunto),0.5268,0.5268,✔
+Stat_MS DBT2-06 (subconjunto),0.5506,0.5506,✔
+DBT2 completo en zona dudosa,3.0,3.0,✔
+FNN NDBT2-01 < 5 % en m = 4,1.0,1.0,✔
+FNN DBT2-05 < 5 % en m = 4,1.0,1.0,✔

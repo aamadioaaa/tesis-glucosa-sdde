@@ -1,0 +1,4 @@
+grupo_tesis,comidas,comidas_detectadas,detecciones,detecciones_correctas,sensibilidad_%,precision_%
+Sano,595,297,307,238,49.9,77.5
+Prediabético,600,401,459,351,66.8,76.5
+Diabetes tipo 2,455,285,401,265,62.6,66.1

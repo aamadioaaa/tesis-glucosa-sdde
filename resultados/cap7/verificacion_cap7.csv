@@ -1,0 +1,90 @@
+Dato,Tesis,Reproducido,Coincide
+Comidas anotadas — Sano,595.0,595.0,✔
+Comidas anotadas — Prediabético,600.0,600.0,✔
+Comidas anotadas — Diabetes tipo 2,455.0,455.0,✔
+Sujeto 007: días utilizables,5.3,5.3,✔
+Sujeto 018: huecos internos,1.0,1.0,✔
+Sujeto 018: hueco mayor (h),225.0,225.0,✔
+Sujeto 018: horas reconstruidas,225.0,225.0,✔
+Sujeto 018: días completos,8.0,8.0,✔
+Sujeto 018: H mínima,0.83,0.83,✔
+Sujeto 018: H máxima,0.865,0.865,✔
+Sujeto 018: C mínima,0.113,0.113,✔
+Sujeto 018: C máxima,0.137,0.137,✔
+Perfiles diarios de la base DCT-PCA,118.0,118.0,✔
+Varianza explicada por la base (%),98.4,98.4,✔
+Tabla 7.1: cohorte publicada,45.0,45.0,✔
+Tabla 7.1: plano H×C,44.0,44.0,✔
+Tabla 7.1: validación de eventos,43.0,43.0,✔
+Tabla 7.3 Sano: n,15.0,15.0,✔
+Tabla 7.3 Sano: H,0.841,0.841,✔
+Tabla 7.3 Sano: H_de,0.044,0.044,✔
+Tabla 7.3 Sano: C,0.128,0.128,✔
+Tabla 7.3 Sano: C_de,0.025,0.025,✔
+Tabla 7.3 Prediabético: n,15.0,15.0,✔
+Tabla 7.3 Prediabético: H,0.81,0.81,✔
+Tabla 7.3 Prediabético: H_de,0.033,0.033,✔
+Tabla 7.3 Prediabético: C,0.15,0.15,✔
+Tabla 7.3 Prediabético: C_de,0.021,0.021,✔
+Tabla 7.3 Diabetes tipo 2: n,14.0,14.0,✔
+Tabla 7.3 Diabetes tipo 2: H,0.772,0.772,✔
+Tabla 7.3 Diabetes tipo 2: H_de,0.032,0.032,✔
+Tabla 7.3 Diabetes tipo 2: C,0.173,0.173,✔
+Tabla 7.3 Diabetes tipo 2: C_de,0.018,0.018,✔
+Kruskal–Wallis H: p (×10⁻⁴),1.47,1.47,✔
+Kruskal–Wallis C: p (×10⁻⁴),1.14,1.14,✔
+Mann–Whitney H sano vs DT2: p (×10⁻⁴),2.68,2.68,✔
+Mann–Whitney C sano vs DT2: p (×10⁻⁴),2.26,2.26,✔
+Tabla 7.4 Sano: detecciones,307.0,307.0,✔
+Tabla 7.4 Sano: sensibilidad_%,49.9,49.9,✔
+Tabla 7.4 Sano: precision_%,77.5,77.5,✔
+Tabla 7.4 Prediabético: detecciones,459.0,459.0,✔
+Tabla 7.4 Prediabético: sensibilidad_%,66.8,66.8,✔
+Tabla 7.4 Prediabético: precision_%,76.5,76.5,✔
+Tabla 7.4 Diabetes tipo 2: detecciones,401.0,401.0,✔
+Tabla 7.4 Diabetes tipo 2: sensibilidad_%,62.6,62.6,✔
+Tabla 7.4 Diabetes tipo 2: precision_%,66.1,66.1,✔
+Tabla 7.5 Sano: fuerte,4.0,4.0,✔
+Tabla 7.5 Sano: moderada,31.0,31.0,✔
+Tabla 7.5 Sano: leve,272.0,272.0,✔
+Tabla 7.5 Prediabético: fuerte,12.0,12.0,✔
+Tabla 7.5 Prediabético: moderada,91.0,91.0,✔
+Tabla 7.5 Prediabético: leve,356.0,356.0,✔
+Tabla 7.5 Diabetes tipo 2: fuerte,43.0,43.0,✔
+Tabla 7.5 Diabetes tipo 2: moderada,122.0,122.0,✔
+Tabla 7.5 Diabetes tipo 2: leve,236.0,236.0,✔
+Tabla 7.6 Sano: alba,21.0,21.0,✔
+Tabla 7.6 Sano: dias,163.0,163.0,✔
+Tabla 7.6 Sano: eventos_por_dia,0.129,0.129,✔
+Tabla 7.6 Prediabético: alba,44.0,44.0,✔
+Tabla 7.6 Prediabético: dias,176.0,176.0,✔
+Tabla 7.6 Prediabético: eventos_por_dia,0.25,0.25,✔
+Tabla 7.6 Diabetes tipo 2: alba,61.0,61.0,✔
+Tabla 7.6 Diabetes tipo 2: dias,166.0,166.0,✔
+Tabla 7.6 Diabetes tipo 2: eventos_por_dia,0.367,0.367,✔
+Tabla 7.7: ρ medio,0.739,0.739,✔
+Tabla 7.7: ρ DE,0.148,0.148,✔
+Tabla 7.7: RMSE medio,24.8,24.8,✔
+Tabla 7.7: RMSE DE,9.0,9.0,✔
+Tabla 7.7 Entropía H: Real,0.775,0.775,✔
+Tabla 7.7 Entropía H: Simulado,0.792,0.792,✔
+Tabla 7.7 Complejidad C: Real,0.171,0.171,✔
+Tabla 7.7 Complejidad C: Simulado,0.161,0.161,✔
+Tabla 7.7 Tiempo en rango (%): Real,82.0,82.0,✔
+Tabla 7.7 Tiempo en rango (%): Simulado,81.0,81.0,✔
+Tabla 7.7 Exponente espectral β: Real,2.53,2.53,✔
+Tabla 7.7 Exponente espectral β: Simulado,2.39,2.39,✔
+"r(TIR real, TIR simulado)",0.947,0.947,✔
+Intervención: HbA1c ref (%),6.42,6.42,✔
+Intervención: HbA1c sin respuesta (%),5.79,5.79,✔
+Intervención: HbA1c completa (%),6.1,6.1,✔
+Intervención: TIR referencia (%),81.0,81.0,✔
+Intervención: TIR sin respuesta (%),88.2,88.2,✔
+Intervención: TIR completa (%),89.1,89.1,✔
+Intervención: TBR<70 sin respuesta (%),4.89,4.89,✔
+Intervención: TBR<70 completa (%),1.54,1.54,✔
+Intervención: TBR<54 sin respuesta (%),1.88,1.88,✔
+Intervención: TBR<54 completa (%),0.04,0.04,✔
+Intervención: episodio máx. sin respuesta (h),13.0,13.0,✔
+Intervención: episodio máx. completa (h),1.75,1.75,✔
+Intervención: sujetos > 7 % (completa),0.0,0.0,✔
